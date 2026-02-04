@@ -1,0 +1,10 @@
+controls:
+  - id: SC-01
+    name: Asset inventory is documented
+    description: Maintain an up-to-date inventory of hardware and software assets.
+  - id: SC-02
+    name: Access provisioning is controlled
+    description: Require approvals for user account creation and changes.
+  - id: SC-03
+    name: Monitoring alerts are triaged
+    description: Review and triage security monitoring alerts.

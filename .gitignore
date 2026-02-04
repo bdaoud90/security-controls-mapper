@@ -1,0 +1,7 @@
+node_modules/
+dist/
+output/*.csv
+output/*.md
+.env
+.DS_Store
+coverage/

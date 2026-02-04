@@ -1,0 +1,9 @@
+mappings:
+  SC-02:
+    NIST CSF:
+      - PR.AC-6
+  SC-04:
+    CIS Controls:
+      - 12.1
+    NIST CSF:
+      - PR.IP-1
